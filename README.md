@@ -1,5 +1,6 @@
 # account-migration
-migration tool for sync-monitor to buteo caldav
+migration tool for sync-monitor to buteo caldav.
+For buteo to work ( profile creation at account update ), msyncd service need to be up and running
 
 usage example:
 
